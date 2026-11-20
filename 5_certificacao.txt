@@ -7,7 +7,6 @@ Links
 - Notebook no Colab (acesso de leitura): [COLE O LINK]
 - Repositório GitHub: [COLE O LINK]
 
-Integrantes
-- [NOME COMPLETO] — RM [000000]
-- [NOME COMPLETO] — RM [000000]
-- [NOME COMPLETO] — RM [000000]
+Integrante
+- [Erick Vieiro Martins] — RM [575683]
+
