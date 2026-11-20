@@ -1,10 +1,19 @@
 GS2026.2 · CitizenTech — CERTIFICAÇÃO
 Turma: 1CCPA · Frente A — Mobilidade urbana · Modalidade: trio
 
-[COLE AQUI A TELA FINAL DO NOTEBOOK (última célula "CERTIFICAÇÃO") DEPOIS DE RODAR NO COLAB]
+============================================================
+CERTIFICAÇÃO — GS2026.2 · Frente A (Mobilidade) · Turma 1CCPA
+============================================================
+[✓] Registros: 13 (mín. 12) | fora do normal: 5
+[✓] Regras de negócio aplicadas: {'acessivel_corrigidos': 11, 'motivo_preenchido': 2, 'horarios_normalizados': 1, 'ids_duplicados_corrigidos': 1}
+[✓] Fontes na auditoria: {'regra': 13}
+[✓] Harness: 5 perguntas × 2 versões | chamadas auditadas: 20
+[ ] Matriz humana preenchida
+[✓] Chave de API não exposta no notebook (userdata.get)
+Integrante: [Erick Vieiro Martins | RM: 575683]
 
 Links
-- Notebook no Colab (acesso de leitura): [COLE O LINK]
+- Notebook no Colab (acesso de leitura): https://colab.research.google.com/drive/1_6umvERKhJyu9k2Z9LG7YT-30cgel8rH?usp=sharing
 - Repositório GitHub: [COLE O LINK]
 
 Integrante
