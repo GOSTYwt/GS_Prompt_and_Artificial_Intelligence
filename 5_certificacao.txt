@@ -14,7 +14,7 @@ Integrante: [Erick Vieiro Martins | RM: 575683]
 
 Links
 - Notebook no Colab (acesso de leitura): https://colab.research.google.com/drive/1_6umvERKhJyu9k2Z9LG7YT-30cgel8rH?usp=sharing
-- Repositório GitHub: [COLE O LINK]
+- Repositório GitHub: https://github.com/GOSTYwt/GS_Prompt_and_Artificial_Intelligence
 
 Integrante
 - [Erick Vieiro Martins] — RM [575683]
