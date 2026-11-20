@@ -2,7 +2,7 @@
 
 **Disciplina:** Prompt and Artificial Intelligence · **Turma:** 1CCPA · **Prof.:** Jorge Luiz Gomes
 **Frente escolhida:** A — Mobilidade urbana
-**Integrantes (modalidade: trio):** [NOME — RM] · [NOME — RM] · [NOME — RM]
+**Integrante:** [NOME: Erick Vieiro Martins RM: 575683]
 
 ## O que é
 Assistente que responde ao passageiro, em linguagem simples, se um ponto/linha de ônibus está funcionando, lotado ou interditado, com horário, atraso esperado, acessibilidade e alternativa. Usa dados simulados de uma prefeitura fictícia (13 registros, 5 com status fora do normal) e só responde com base neles.
