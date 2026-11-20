@@ -1,0 +1,28 @@
+6_Chat_Log.txt — Registro de uso de IA (GS2026.2)
+Ferramenta: Claude (Anthropic) · Data: 19/11/2026
+
+[1] Pedido do grupo
+"Faça o que é pedido no PDF e me envie o que eu devo colocar no repo do GitHub" (com o briefing da GS2026.2 anexado).
+
+[2] O que a IA gerou (rascunho)
+- Estrutura do notebook (seções 0 a 7 com os títulos exatos)
+- 13 registros simulados da Frente A com defeitos propositais para exercitar as 4 regras de negócio
+- Funções de normalização (acessivel, horario), validação com fallback e tabela de auditoria
+- System prompt v1, v2 e final com os 7 elementos, few-shot e bônus de desambiguação
+- Harness de 5 perguntas × 2 versões e modelos de README, prompts_kit e certificação
+
+[3] Decisões e raciocínio apontados pela IA
+- Temperatura 0.1: classificação precisa de estabilidade.
+- Regra 1 do briefing é ambígua (status x motivo): adotada a leitura "motivo obrigatório se status != ativo"; para ativo sem motivo, preenche "operação normal" e conta a correção.
+- Horário que cruza a meia-noite (04:30–00:30) tratado somando 1440 min.
+- A matriz de notas humanas foi deixada em branco de propósito: a nota é do grupo.
+
+[4] O que o GRUPO fez / deve registrar (preencher)
+- [Quem rodou o notebook no Colab e quando]
+- [Alterações feitas no prompt e por quê]
+- [Notas humanas atribuídas e justificativa]
+- [Trechos do código que o grupo reescreveu ou questionou]
+- [Conclusão reescrita com a tese do grupo]
+
+[5] Declaração
+O grupo revisou o material gerado, executou o notebook e consegue justificar cada linha do system prompt.
